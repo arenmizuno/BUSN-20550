@@ -20,7 +20,7 @@ More broadly, the course focused on:
 ---
 
 ## 🚀 Final Project
-- [Final Project Repository](here...)
+- [Final Project Repository](https://github.com/arenmizuno/BUSN-20550-guess_who)
 
 **Description:**  
 Developed a full-stack application applying concepts from the course, including application architecture, data handling, and user interaction design.
@@ -28,9 +28,34 @@ Developed a full-stack application applying concepts from the course, including 
 ---
 
 ## 📝 Homework Assignments
-- [Homework 1](Here)  
-- [Homework 2](Here)  
-- [Homework 3](Here)  
+- [Link-in-bio](https://github.com/arenmizuno/BUSN-20550-link-in-bio)  
+- [Ruby Sandbox](https://github.com/arenmizuno/BUSN-20550-ruby-sandbox)  
+- [Umbrella](https://github.com/arenmizuno/BUSN-20550-umbrella)
+- [QR Code Ruby](https://github.com/arenmizuno/BUSN-20550-qr-code-ruby)
+- [Sinatra Dice Roll](https://github.com/arenmizuno/BUSN-20550-sinatra-dice-roll)
+- [Sinatra RPS](https://github.com/arenmizuno/BUSN-20550-sinatra-rps)
+- [Rails Omnicalc 2](https://github.com/arenmizuno/BUSN-20550-rails-omnicalc-2)
+- [Rails RPS](https://github.com/arenmizuno/BUSN-20550-rails-rps)
+- [Ruby OpenAI Demo](https://github.com/arenmizuno/BUSN-20550-ruby-openai-demo)
+- [Sinatra Dice Dynamic](https://github.com/arenmizuno/BUSN-20550-sinatra-dice-dynamic)
+- [Sinatra Dice Form](https://github.com/arenmizuno/BUSN-20550-sinatra-dice-form)
+- [Sinatra Omnicalc 2](https://github.com/arenmizuno/BUSN-20550-sinatra-omnicalc-2)
+- [Sinatra Exchange Rates](https://github.com/arenmizuno/BUSN-20550-sinatra-exchange-rates)
+- [Sinatra Omnicalc 2](https://github.com/arenmizuno/BUSN-20550-sinatra-omnicalc-1)
+- [Dice Roll Static](https://github.com/arenmizuno/BUSN-20550-dice-roll-static)
+- [Rails Dice Dynamic](https://github.com/arenmizuno/BUSN-20550-rails-dice-dynamic)
+- [Rails Omnicalc 1](https://github.com/arenmizuno/BUSN-20550-rails-omnicalc-1)
+- [Contact Book](https://github.com/arenmizuno/BUSN-20550-contact-book)
+- [Link-in-bio-db](https://github.com/arenmizuno/BUSN-20550-link-in-bio-db)
+- [MSM Queries](https://github.com/arenmizuno/BUSN-20550-msm-queries)
+- [Link-in-bio Form](https://github.com/arenmizuno/BUSN-20550-link-in-bio-form)
+- [MSM GUI](https://github.com/arenmizuno/BUSN-20550-msm-gui)
+- [Classroom Queries Debug](https://github.com/arenmizuno/BUSN-20550-classroom-queries-debug)
+- [Refactoring MSM with Associations](https://github.com/arenmizuno/BUSN-20550-refactoring-msm-with-associations)
+- [Photogram Associations Practice](https://github.com/arenmizuno/BUSN-20550-photogram-associations-practice)
+- [Bulletin Board 1](https://github.com/arenmizuno/BUSN-20550-bulletin-board-1)
+- [Bulletin Board 2](https://github.com/arenmizuno/BUSN-20550-bulletin-board-2)
+- [Bootstrap Levels](https://github.com/arenmizuno/BUSN-20550-bootstrap-levels)
 
 Each assignment explores key concepts in application development, progressively building skills in coding, debugging, and system design.
 
