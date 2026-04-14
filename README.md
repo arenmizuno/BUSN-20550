@@ -19,15 +19,15 @@ More broadly, the course focused on:
 
 ---
 
-## 🚀 Final Project
-- [Final Project Repository](https://github.com/arenmizuno/BUSN-20550-guess_who)
+## Final Project
+- [Guess Who Repository](https://github.com/arenmizuno/BUSN-20550-guess_who)
 
 **Description:**  
-Developed a full-stack application applying concepts from the course, including application architecture, data handling, and user interaction design.
+Built a full-stack web application inspired by the Guess Who game using Ruby on Rails. The project includes user authentication, CRUD functionality for character management, and interactive gameplay where users ask yes/no questions, eliminate options, and make final guesses. This project demonstrates end-to-end application development, from database design to user interface.
 
 ---
 
-## 📝 Homework Assignments
+## Homework Assignments
 - [Link-in-bio](https://github.com/arenmizuno/BUSN-20550-link-in-bio)  
 - [Ruby Sandbox](https://github.com/arenmizuno/BUSN-20550-ruby-sandbox)  
 - [Umbrella](https://github.com/arenmizuno/BUSN-20550-umbrella)
